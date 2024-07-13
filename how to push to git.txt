@@ -1,4 +1,8 @@
 git add . 
-git commit -m 'sadfljasoidfjasdofkjlads'
+git commit -m 'added pip install '
 git push 
 git open 
+
+
+to install anything: 
+pip install {package_name}
